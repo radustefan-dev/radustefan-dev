@@ -1,4 +1,4 @@
-# Hi there, I'm [Tuo Nome e Cognome] 👋
+# Hi there, I'm Radu Stefan Turcu 👋
 
 I am an MSc Computer Science Student at the University of Turin (UniTo), deeply passionate about bridging the gap between advanced 3D mathematics, real-time graphics, and computer vision.
 
